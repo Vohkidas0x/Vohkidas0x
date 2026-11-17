@@ -7,6 +7,8 @@ Focused on **Offensive Security (Red Team)**, **Purple Teaming**, and **Network 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-sadikhov)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Vohkidas0x)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/01a136b2-2528-71ca-baf3-cd0afa402c13)
+![Profile Views](https://komarev.com/ghpvc/?username=Vohkidas0x&color=0077B5&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Vohkidas0x?style=for-the-badge&color=0077B5)
 
 ---
 
