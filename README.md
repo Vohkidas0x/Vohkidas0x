@@ -1,5 +1,12 @@
-Cybersecurity Engineering BSc student at **TalTech (Tallinn, Estonia)** 🇪🇪
-Focused on **Offensive Security (Red Team)**, **Purple Teaming**, and **Network Defence** — bridging attack simulation with detection engineering.
+---
+
+### Option 3: Clean, Punchy One-Liner + Bullet Hook
+```markdown
+### ⚡ Offensive Security & Purple Team Practitioner | TalTech 🇪🇪
+Cybersecurity Engineering BSc student in **Tallinn, Estonia**, bridging the gap between **Red Team attack simulation** and **Blue Team detection engineering**:
+* 🔴 **Offensive Security:** Exploitation, web security, and active CTF competitor
+* 🟣 **Purple Teaming:** Adversary emulation mapped to log analysis & MITRE ATT&CK
+* 🔵 **Network Defence:** Threat hunting, hardening, and incident visibility
 
 ---
 
@@ -46,4 +53,4 @@ Focused on **Offensive Security (Red Team)**, **Purple Teaming**, and **Network 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&groups=2,2,2&width=680&height=95&lines=%E2%80%9CWe're+here+to+put+a+dent+in+the+universe.+Otherwise+why+else+even+be+here%3F%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CStay+hungry%2C+stay+foolish.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CThe+people+who+are+crazy+enough+to+think+they+can+change+the+world+are+the+ones+who+do.%E2%80%9D;%C2%A0%C2%A0~+Rob+Siltanen+%2F+Apple)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&groups=3,2,3&width=760&height=120&lines=%E2%80%9CWe're+here+to+put+a+dent+in+the+universe.;Otherwise+why+else+even+be+here%3F%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CStay+hungry%2C+stay+foolish.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CThe+people+who+are+crazy+enough+to+think;they+can+change+the+world+are+the+ones+who+do.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs+%2F+Apple)](https://git.io/typing-svg)
