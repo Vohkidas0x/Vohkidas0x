@@ -1,7 +1,4 @@
 ---
-
-### Option 3: Clean, Punchy One-Liner + Bullet Hook
-```markdown
 ### ⚡ Offensive Security & Purple Team Practitioner | TalTech 🇪🇪
 Cybersecurity Engineering BSc student in **Tallinn, Estonia**, bridging the gap between **Red Team attack simulation** and **Blue Team detection engineering**:
 * 🔴 **Offensive Security:** Exploitation, web security, and active CTF competitor
