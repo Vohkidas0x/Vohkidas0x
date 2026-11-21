@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&groups=3,2,3&width=760&height=120&lines=%E2%80%9CWe're+here+to+put+a+dent+in+the+universe.;Otherwise+why+else+even+be+here%3F%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CStay+hungry%2C+stay+foolish.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CThe+people+who+are+crazy+enough+to+think;they+can+change+the+world+are+the+ones+who+do.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs+%2F+Apple" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" alt="Hacker Terminal GIF" />
 </p>
 
 <p align="center">
