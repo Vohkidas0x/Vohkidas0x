@@ -2,13 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:DC2626&height=180&section=header&text=Vohkidas0x&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Engineering%20at%20TalTech%20%7C%20Red%20and%20Purple%20Teaming&descAlignY=60&descSize=16&descColor=E2E8F0" alt="Header Banner" />
 </p>
 
-<p>
-  <img align="left" src="./steve-jobs.png" width="160" alt="Steve Jobs" />
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&groups=3,2,3&width=580&height=160&lines=%E2%80%9CWe're+here+to+put+a+dent+in+the+universe.;Otherwise+why+else+even+be+here%3F%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CStay+hungry%2C+stay+foolish.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CThe+people+who+are+crazy+enough+to+think;they+can+change+the+world+are+the+ones+who+do.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs+%2F+Apple" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&groups=3,2,3&width=760&height=120&lines=%E2%80%9CWe're+here+to+put+a+dent+in+the+universe.;Otherwise+why+else+even+be+here%3F%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CStay+hungry%2C+stay+foolish.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CThe+people+who+are+crazy+enough+to+think;they+can+change+the+world+are+the+ones+who+do.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs+%2F+Apple" alt="Typing SVG" />
   </a>
-</p>
-<br clear="left"/>
+</p
 
 
 ### ⚡ Offensive Security & Purple Team Practitioner | TalTech 🇪🇪
