@@ -3,6 +3,10 @@ Focused on **Offensive Security (Red Team)**, **Purple Teaming**, and **Network 
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&vCenter=true&width=600&lines=Cybersecurity+Engineering+%40+TalTech;Purple+Teaming+%26+Detection+Engineering;CTF+Competitor+%7C+Offensive+Security)](https://git.io/typing-svg)
+
+---
+
 ### 🌐 Connect & Platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-sadikhov)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Vohkidas0x)
