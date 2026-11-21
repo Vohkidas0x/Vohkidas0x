@@ -43,3 +43,7 @@ Focused on **Offensive Security (Red Team)**, **Purple Teaming**, and **Network 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&groups=2,2,2&width=680&height=95&lines=%E2%80%9CWe're+here+to+put+a+dent+in+the+universe.+Otherwise+why+else+even+be+here%3F%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CStay+hungry%2C+stay+foolish.%E2%80%9D;%C2%A0%C2%A0~+Steve+Jobs;%E2%80%9CThe+people+who+are+crazy+enough+to+think+they+can+change+the+world+are+the+ones+who+do.%E2%80%9D;%C2%A0%C2%A0~+Rob+Siltanen+%2F+Apple)](https://git.io/typing-svg)
