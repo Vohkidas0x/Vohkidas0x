@@ -18,7 +18,7 @@ Cybersecurity Engineering BSc student in **Tallinn, Estonia**, bridging the gap 
 ---
 
 ### 🌐 Connect & Platforms
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn]([www.linkedin.com/in/yunus-sadikhov](https://www.linkedin.com/in/yunus-sadikhov/))]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/yunus-sadikhov/))
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14)](https://tryhackme.com/p/YOUR-THM-USERNAME)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=141D2B)](https://app.hackthebox.com/profile/YOUR-HTB-ID)
 ![Profile Views](https://komarev.com/ghpvc/?username=Vohkidas0x&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
