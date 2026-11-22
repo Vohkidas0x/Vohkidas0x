@@ -31,7 +31,7 @@ Cybersecurity Engineering BSc student in **Tallinn, Estonia**, bridging the gap 
 | Project | Focus Area | Key Technologies & Outcome |
 | :--- | :--- | :--- |
 | **[purple-team-lab](https://github.com/Vohkidas0x/purple-team-lab)** | Purple Teaming & Detection | Simulates SSH brute-force & Nmap recon mapped to real OpenSSH logs and MITRE ATT&CK |
-| **[ctf-writeups](https://github.com/<Vohkidas0x>/ctf-writeups)** | Offensive Security / CTFs | Step-by-step exploitation writeups & Python/Bash solve scripts (Mārtiņa-CTF 2026) |
+| **[ctf-writeups](https://github.com/Vohkidas0x/martina-ctf-2026-writeups )** | Offensive Security / CTFs | Step-by-step exploitation writeups & Python/Bash solve scripts (Mārtiņa-CTF 2026) |
 
 ---
 
